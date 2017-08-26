@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"react": "16.0.0-alpha.12",
-		"react-native": "zezhouliu/react-native#al/linespacing-android"
+		"react-native": "jerolimov/react-native#pr-13877"
 	},
 	"devDependencies": {
 		"babel-jest": "20.0.3",
